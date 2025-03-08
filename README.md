@@ -8,17 +8,24 @@ My name is **Yogesh**, and I am a PhD candidate at the Ohio State University, **
 
 ## 🛠 Languages & Tools
 
+### 🧑‍💻 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/MobaXterm_Logo.png" alt="MobaXterm" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+### 🔬 Genomics & Computational Tools
+<p align="left">
   <img src="https://www.bioconductor.org/images/logo_bioconductor.gif" alt="Bioconductor" width="100" height="40"/>
+  <img src="https://seurat.rstudio.com/images/logo.svg" alt="Seurat" width="100" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+### 🗂 Version Control
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.bioconductor.org/images/Seurat-logo.png" alt="Seurat" width="100" height="40"/>
 </p>
 
   
