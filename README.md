@@ -4,8 +4,7 @@ My name is **Yogesh**, and I am a PhD candidate at the Ohio State University, **
 - 🔭 I am also working on developing [**KITE-SCAN**](https://github.com/kidcancerlab/kiteScan), a computational tool that predicts **biologically informed tyrosine kinase inhibitors (TKIs) for cancer patients**, optimizing efficacy while minimizing toxicity.   
 - 🌱 I’m currently learning **advanced computational biology techniques, RNA sequencing analysis, and bioinformatics tools to refine predictive models for precision medicine**.  
 
-📫 Feel free to reach out for collaborations or discussions on **genomics, computational biology, cancer biology, and developing computational tools!**  
-email: budhathoki.3@osu.edu
+📫 Feel free to reach out for collaborations or discussions on **genomics, computational biology, cancer biology, and developing computational tools!** email: budhathoki.3@osu.edu
   
 <!--
 **YogiBud/YogiBud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
