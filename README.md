@@ -24,6 +24,8 @@ Therapy resistance
 
 📫 Email: yogibud@stanford.edu
 
+📫 Email: yogibud@stanford.edu
+
 
 ## 🛠 Languages & Tools
 
