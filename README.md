@@ -17,15 +17,11 @@ Therapy resistance
 
 🔗 Connect with me
 
-📚 Google Scholar
-💼 LinkedIn
-💻 GitHub
-🧑‍🔬 ORCID
+Google Scholar: https://scholar.google.com/citations?hl=en&user=C226mDgAAAAJ
+LinkedIn: https://www.linkedin.com/in/yogibud/
+Orcid: https://orcid.org/my-orcid?orcid=0009-0009-1278-6278
 
 📫 Email: yogibud@stanford.edu
-
-📫 Email: yogibud@stanford.edu
-
 
 ## 🛠 Languages & Tools
 
