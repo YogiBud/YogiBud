@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Yogesh Budhathoki, PhD, a Research Data Analyst at Stanford University, working at the intersection of cancer genomics, computational biology, and multi-omics research.
+I'm Yogesh Budhathoki, PhD, a Research Data Analyst at Stanford University, working at the intersection of cancer and computational bio.
 
 🎓 Education
 
@@ -18,7 +18,9 @@ Therapy resistance
 🔗 Connect with me
 
 Google Scholar: https://scholar.google.com/citations?hl=en&user=C226mDgAAAAJ
+
 LinkedIn: https://www.linkedin.com/in/yogibud/
+
 Orcid: https://orcid.org/my-orcid?orcid=0009-0009-1278-6278
 
 📫 Email: yogibud@stanford.edu
