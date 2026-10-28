@@ -4,7 +4,7 @@ I'm Yogesh Budhathoki, PhD, a Research Data Analyst at Stanford University, work
 
 🎓 Education
 
-PhD, Molecular, Cellular, and Developmental Biology, The Ohio State University
+PhD, Molecular, Cellular, and Developmental Biology, The Ohio State University  
 BS, Biology and Chemistry, Berea College
 
 🧬 Research Interests
